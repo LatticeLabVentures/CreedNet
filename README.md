@@ -1,7 +1,11 @@
 # Summary
 Delegation Dynamics for Decentralised Lending 
 
-# Workflow
+## Concepts
+- Credit Delegration through RANDAOs
+- Credit Delegattion through Quadratic DAOs
+
+## Workflow
 - Owner deposits collateral in Aave via its LendingPool
 - Owner uses the data provider contract to retrieve the associated DebtToken for the borrower's desired asset to borrow
 - Owner interacts with the DebtToken contract to approve the borrower to take out a given amount of credit on the asset
