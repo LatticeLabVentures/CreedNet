@@ -1,4 +1,4 @@
-# CreedNet
+# Summary
 Delegation Dynamics for Decentralised Lending 
 
 # Workflow
